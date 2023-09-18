@@ -1,0 +1,51 @@
+*{
+  margin:  0 auto;
+  font-family: roboto;
+ }
+
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+ #navbar {
+    background: rgb(255,0,0);
+ background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(241,82,82,1) 70%, rgba(249,249,249,1) 100%);
+    margin: 0px;
+    padding: 10px;
+ }
+ .buttonnavbar {
+   display: inline;
+    background-color: red; 
+    color: white; 
+    border: 0px solid white;
+    padding: 5px;
+    margin-left: 10PX;
+  }  
+ .buttonnavbar:hover{
+   display: inline;
+    background-color: white;
+    color: red;
+    padding: 5px;
+    margin-left: 10PX;
+  }
+  a {
+   text-decoration: none;
+  }
+  .search-container {
+    float: right;
+  }
+ .tites {
+ text-align: center;
+ }
+
+
+ .footer {
+  background-color: black;
+  color: aliceblue;
+
+ }
+ .iconfacbook {
+  border-radius: 50%;
+  
+ } 
